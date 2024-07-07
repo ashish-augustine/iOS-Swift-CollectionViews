@@ -15,11 +15,8 @@ Sample project that demonstrates what's new in collection views for iOS 13/14.
 <img src="Screenshots/Home.png" width=200 height=433> <img src="Screenshots/Compositional.png" width=200 height=433>
 <img src="Screenshots/Diffable.png" width=200 height=433> <img src="Screenshots/Lists.png" width=200 height=433>
 
-## Contributing
-
-Feel free to open an issue or submit a pull request if you have any improvement or feedback.
-
+ 
 ## Author
 
-Alonso Alvarez, alonso.alvarez.dev@gmail.com
+Ashish Augustine
 # ModernCollectionViews-development
