@@ -2,7 +2,7 @@
 //  OtherCapabilitiesItemModel.swift
 //  ModernCollectionViews
 //
-//  Created by Alonso on 2/22/21.
+//  Created by Ashish Augustine on 2/22/21.
 //
 
 import Foundation

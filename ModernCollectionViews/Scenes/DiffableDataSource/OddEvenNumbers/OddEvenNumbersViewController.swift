@@ -2,7 +2,7 @@
 //  OddEvenNumbersViewController.swift
 //  ModernCollectionViews
 //
-//  Created by Alonso on 10/4/20.
+//  Created by Ashish Augustine on 10/4/20.
 //
 
 import UIKit

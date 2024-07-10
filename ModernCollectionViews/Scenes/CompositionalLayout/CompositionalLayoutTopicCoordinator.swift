@@ -2,7 +2,7 @@
 //  CompositionalLayoutTopicCoordinator.swift
 //  ModernCollectionViews
 //
-//  Created by Alonso on 10/11/20.
+//  Created by Ashish Augustine on 10/11/20.
 //
 
 import UIKit

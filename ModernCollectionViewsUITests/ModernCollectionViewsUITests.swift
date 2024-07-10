@@ -2,7 +2,7 @@
 //  ModernCollectionViewsUITests.swift
 //  ModernCollectionViewsUITests
 //
-//  Created by Alonso on 10/6/20.
+//  Created by Ashish Augustine on 10/6/20.
 //
 
 import XCTest

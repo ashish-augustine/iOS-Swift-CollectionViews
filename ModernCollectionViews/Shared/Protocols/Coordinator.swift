@@ -2,7 +2,7 @@
 //  Coordinator.swift
 //  ModernCollectionViews
 //
-//  Created by Alonso on 10/8/20.
+//  Created by Ashish Augustine on 10/8/20.
 //
 
 import UIKit

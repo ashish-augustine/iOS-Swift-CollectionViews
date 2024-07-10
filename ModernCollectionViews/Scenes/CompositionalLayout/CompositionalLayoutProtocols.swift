@@ -2,7 +2,7 @@
 //  CompositionalLayoutProtocols.swift
 //  ModernCollectionViews
 //
-//  Created by Alonso on 10/14/20.
+//  Created by Ashish Augustine on 10/14/20.
 //
 
 protocol CompositionalLayoutTopicViewFactoryProtocol {

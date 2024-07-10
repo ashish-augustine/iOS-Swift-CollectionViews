@@ -2,7 +2,7 @@
 //  Appearance+Title.swift
 //  ModernCollectionViews
 //
-//  Created by Alonso on 2/21/21.
+//  Created by Ashish Augustine on 2/21/21.
 //
 
 import UIKit

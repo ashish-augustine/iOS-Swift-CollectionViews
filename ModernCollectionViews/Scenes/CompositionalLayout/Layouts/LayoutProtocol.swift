@@ -2,7 +2,7 @@
 //  LayoutProtocol.swift
 //  ModernCollectionViews
 //
-//  Created by Alonso on 2/23/21.
+//  Created by Ashish Augustine on 2/23/21.
 //
 
 import UIKit

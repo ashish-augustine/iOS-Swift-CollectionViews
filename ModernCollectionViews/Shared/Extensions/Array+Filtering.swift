@@ -2,7 +2,7 @@
 //  Array+Filtering.swift
 //  ModernCollectionViews
 //
-//  Created by Alonso Yoshio Alvarez Tengan on 10/5/20.
+//  Created by Ashish Augustine Yoshio Alvarez Tengan on 10/5/20.
 //
 
 import Foundation
