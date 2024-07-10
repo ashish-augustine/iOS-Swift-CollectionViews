@@ -14,6 +14,3 @@ Sample project that demonstrates what's new in collection views for iOS 13/14.
 
 <img src="Screenshots/Home.png" width=200 height=433> <img src="Screenshots/Compositional.png" width=200 height=433>
 <img src="Screenshots/Diffable.png" width=200 height=433> <img src="Screenshots/Lists.png" width=200 height=433>
-
- 
- Author - Ashish Augustine 
